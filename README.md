@@ -1,1 +1,2 @@
 # Archipelag-2024-Neural-network
+This project was created during a competition held July 13 - 17 called Archipelago 2024. The following tools were used to fulfill the terms of reference: Agisoft Metashape, Roboflow, Python and some of its libraries. The competition involved locating an object of interest on the range and sending a ground robot to it. Such technology can be applied in life, in case of emergencies.
